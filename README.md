@@ -1,2 +1,2 @@
 # hello_world
-My First Program
+My First Prog
